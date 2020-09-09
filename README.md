@@ -6,7 +6,7 @@
 <br />
 
 <p>💻 I'm a <b>Front-End Developer</b> from Brazil.</p>
-<p>🎓 I have a degree in <b>Computer Science</b> (Bachelor), <b>Analysis and Systems Development</b> (Technologist) and <b>Business Administration</b> (Technologist).</p>
+<p>🎓 I have a degree in <b>Computer Science</b> (Bachelor) and <b>Business Administration</b> (Technologist). I'm now studying <b>Analysis and Systems Development</b> (Technologist)</p>.
 <p>🆙 I intend to prepare myself better as a professional so that I can <b>help the software development community grow</b>.</p>
 <p>📖 I'm currently learning <b>Javascript</b>, <b>Typescript</b>, <b>React</b> and <b>UX/UI Design</b>, besides expanding my knowledge on <b>Git</b>/<b>Github</b>.</p>
 <p>📚 I'm also planning to study <b>NodeJS</b>, <b>Game Development</b> and <b>Drawing</b>.</p>
