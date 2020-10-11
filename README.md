@@ -34,6 +34,6 @@
 
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaalbuquerque&hide=html&layout=compact&theme=buefy" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaalbuquerque&hide=html&layout=compact" />
   <img width="405px" src="https://github-readme-stats.vercel.app/api?username=angelicaalbuquerque&show_icons=true" alt="Angélica Albuquerque" />
 </p>
