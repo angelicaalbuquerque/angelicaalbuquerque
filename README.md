@@ -32,7 +32,6 @@
    <img src="https://komarev.com/ghpvc/?username=your-github-angelicaalbuquerque&style=plastic" alt="profile views" /> 
 </p>
 
----
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaalbuquerque&hide=html&layout=compact&theme=buefy" />
