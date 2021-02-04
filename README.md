@@ -1,4 +1,4 @@
-<img width="auto" src="https://pbs.twimg.com/profile_banners/1185743748535332864/1571544201/1500x500">
+<img width="auto" src="https://raw.githubusercontent.com/angelicaalbuquerque/angelicaalbuquerque/master/github-cover-lightmode.jpg">
 
 <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align="top" width="25px"> Hi, I'm Angelica, nice to meet you!</h3>
 <p align="center"><em>Pronouns: she/her</em></p>
