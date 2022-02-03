@@ -5,7 +5,7 @@
 
 <br />
 
-<p>💻 I'm a <b>Front-End Developer</b> from Brazil. You can see my website (in Portuguese) here: <a href="https://www.frontangie.dev" target="blank">frontangie.dev</a>.</p>
+<p>💻 I'm a <b>Front-End Developer</b> from Brazil. You can see my website (in Portuguese) here: <a href="https://www.frontangie.dev" target="_blank">frontangie.dev</a>.</p>
 <p>🎓 I have a degree in <b>Computer Science</b> (Bachelor), <b>Analysis and Systems Development</b> (Technologist) and <b>Business Administration</b> (Technologist).</p>
 <p>🆙 I intend to prepare myself better as a professional so that I can <b>help the software development community grow</b>.</p>
 <p>📖 I'm currently learning <b>Javascript</b>, <b>React</b> and <b>UX/UI Design</b>, besides expanding my knowledge on <b>Git</b>/<b>Github</b>.</p>
@@ -18,10 +18,10 @@
 <h3 align="center">📫 How to reach me</h3>
 
 <p align="center">
-  <a href="https://www.frontangie.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/portfolio.svg" alt="frontangie.dev" height="50" width="50" /></a>&nbsp
-  <a href="https://linkedin.com/in/angelica-albuquerque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/linkedin.svg" alt="Linkedin - Angélica Albuquerque" height="50" width="50" /></a>&nbsp
-    <a href="https://twitter.com/FrontAngie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/twitter.svg" alt="/twitter angelica_oa" height="50" width="50" /></a>&nbsp
-  <a href="mailto:hi@frontangie.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/email.svg" alt="Email - Angélica Albuquerque" height="50" width="50" /></a>
+  <a href="https://www.frontangie.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/portfolio.svg" alt="frontangie.dev" height="50" width="50" /></a>&nbsp
+  <a href="https://linkedin.com/in/angelica-albuquerque/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/linkedin.svg" alt="Linkedin - Angélica Albuquerque" height="50" width="50" /></a>&nbsp
+    <a href="https://twitter.com/FrontAngie/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/twitter.svg" alt="/twitter angelica_oa" height="50" width="50" /></a>&nbsp
+  <a href="mailto:hi@frontangie.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/email.svg" alt="Email - Angélica Albuquerque" height="50" width="50" /></a>
 </p>
 
 ---
