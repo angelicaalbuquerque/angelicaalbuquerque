@@ -7,7 +7,7 @@
 
 <p>💻 Front-End Developer based in Brazil.</p>
 <p>🌐 My website (PT-BR): <a href="https://www.frontangie.dev" target="_blank">frontangie.dev</a></p>
-<p>🎓 IBachelor’s in <b>Computer Science</b>, plus Technologist degrees in <b>Systems Analysis and Development</b> and <b>Business Administration</b>.</p>
+<p>🎓 Bachelor’s in <b>Computer Science</b>, plus Technologist degrees in <b>Systems Analysis and Development</b> and <b>Business Administration</b>.</p>
 <p>🆙 I’m committed to continuous learning in order to <b>contribute positively</b> to the software development community.</p>
 <p>📖 I’m currently strengthening my foundations in <b>programming logic</b> and <b>data structures</b>, alongside <b>Javascript</b>, <b>React</b> and <b>UX/UI Design</b>.</p>
 <p>💡 Background in <b>Graphic Design</b>, <b>Marketing</b> and <b>Project Management</b>, bridging design, business strategy and development.</p>
