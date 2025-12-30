@@ -5,7 +5,7 @@
 
 <br />
 
-<p>💻 Front-End Developer based in Brazil..</p>
+<p>💻 Front-End Developer based in Brazil.</p>
 <p>🌐 My website (PT-BR): <a href="https://www.frontangie.dev" target="_blank">frontangie.dev</a></p>
 <p>🎓 IBachelor’s in <b>Computer Science</b>, plus Technologist degrees in <b>Systems Analysis and Development</b> and <b>Business Administration</b>.</p>
 <p>🆙 I’m committed to continuous learning in order to <b>contribute positively</b> to the software development community.</p>
